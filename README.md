@@ -231,3 +231,46 @@ Dataset
 ├── FactOpportunities
 │
 └── FactEmployeePerformance
+
+Key Business Questions Answered
+
+This dashboard helps answer questions such as:
+
+Sales & Finance
+How much revenue and profit are we generating?
+Are we achieving our sales targets?
+Which products and categories generate the most revenue?
+Which products provide stronger profitability?
+How is revenue changing month-over-month?
+Operations
+How many deliveries are being processed?
+What percentage of deliveries are on time?
+Which regions experience higher delays?
+What is the total delivery value?
+Customer & CRM
+How many active customers are generating business?
+Which customer segments are most active?
+How large is the current opportunity pipeline?
+Which opportunity stages contain the highest pipeline value?
+Which lead sources contribute to the pipeline?
+What percentage of opportunities are won?
+Workforce
+How many employees are actively contributing?
+How many tasks are assigned and completed?
+What is the task completion rate?
+Which employees or regions show higher achievement?
+How does employee quality performance change over time?
+
+🚀 Project Outcome
+
+This project demonstrates an end-to-end Power BI Business Intelligence workflow, from structured data modeling and DAX development to interactive visualization and advanced report navigation.
+
+The final solution combines multiple business functions into a single interactive reporting environment designed for executive-level performance monitoring and detailed operational analysis.
+
+👤 Author
+
+Sathiyamoorthi S
+
+Skills Demonstrated
+
+Power BI · DAX · Power Query · Data Modeling · Business Intelligence · Data Visualization · Dashboard Development · KPI Analysis
