@@ -232,7 +232,6 @@ Dataset
 │
 └── FactEmployeePerformance
 ---
-
 ## Key Business Questions Answered
 
 This dashboard helps answer questions such as:
