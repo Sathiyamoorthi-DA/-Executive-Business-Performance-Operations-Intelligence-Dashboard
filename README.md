@@ -10,7 +10,7 @@ The dashboard transforms multiple business datasets into actionable insights thr
 ## Dashboard Preview
 
 [![-Executive-Business-Performance-Operations-Intelligence-Dashboard
-](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-loan-portfolio-powerbi/blob/main/Screenshots/sbi-loan-portfolio-dashboard.png)
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
 
 
 ## 🎯 Business Objectives
