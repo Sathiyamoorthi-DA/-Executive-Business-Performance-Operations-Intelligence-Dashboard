@@ -12,6 +12,19 @@ The dashboard transforms multiple business datasets into actionable insights thr
 [![-Executive-Business-Performance-Operations-Intelligence-Dashboard
 ](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
 
+[![-Executive-Business-Performance-Operations-Intelligence-Dashboard
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+
+[![-Executive-Business-Performance-Operations-Intelligence-Dashboard
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+
+[![-Executive-Business-Performance-Operations-Intelligence-Dashboard
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+
+[![-Executive-Business-Performance-Operations-Intelligence-Dashboard
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+
+
 
 ## 🎯 Business Objectives
 
