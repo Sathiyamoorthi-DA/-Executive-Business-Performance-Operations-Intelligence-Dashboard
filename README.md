@@ -13,16 +13,17 @@ The dashboard transforms multiple business datasets into actionable insights thr
 ](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
 
 [![-Executive-Business-Performance-Operations-Intelligence-Dashboard
-](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Operation.png)
 
 [![-Executive-Business-Performance-Operations-Intelligence-Dashboard
-](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Sales.png
+)
 
 [![-Executive-Business-Performance-Operations-Intelligence-Dashboard
-](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/customer.png)
 
 [![-Executive-Business-Performance-Operations-Intelligence-Dashboard
-](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Executive.png)
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/-Executive-Business-Performance-Operations-Intelligence-Dashboard/blob/main/Screenshots/Drillthrough.png)
 
 
 
