@@ -7,6 +7,11 @@ The **Executive Business Performance & Operations Intelligence Dashboard** is an
 The dashboard transforms multiple business datasets into actionable insights through interactive KPIs, DAX measures, dynamic slicers, drill-through analysis, tooltips, and professional data visualizations.
 
 ---
+## Dashboard Preview
+
+[![-Executive-Business-Performance-Operations-Intelligence-Dashboard
+](Screenshots/Executive-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-loan-portfolio-powerbi/blob/main/Screenshots/sbi-loan-portfolio-dashboard.png)
+
 
 ## 🎯 Business Objectives
 
